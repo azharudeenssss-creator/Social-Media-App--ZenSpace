@@ -37,7 +37,7 @@ This project uses in-memory data and browser APIs to simulate a real social medi
 ## 📂 Project Structure
 
 ```
-index.html   # Entire app (HTML + CSS + JS)
+index.html   # Entire app (HTML + CSS + JS+ Playwright) 
 ```
 
 ---
